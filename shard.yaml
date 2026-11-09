@@ -1,0 +1,12 @@
+shard-spec: "0.4.0"
+shard: "@nuucognition/mesh"
+id: c2e108b8-5076-4458-9335-e34f830df748
+source:
+  id: 21be5d1c-72c7-4d27-a304-de2191fb0e69
+version: "0.1.0"
+name: Mesh
+shorthand: mesh
+description: Use the mesh CLI to read, edit, restructure, and sync the documents of a mesh, Onyx included
+dependencies:
+  "@nuucognition/flint": ""
+setup: local
